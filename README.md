@@ -2,7 +2,7 @@
 
 The first (useful) software I ever wrote.
 
-Calculator programs written between 2001 and 2005 on A TI-83 Plus.
+Calculator programs written in TI BASIC between 2001 and 2005 on A TI-83 Plus.
 
 Transferred and decompiled in 2019 without modification.
 
