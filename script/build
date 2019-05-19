@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for filename in ./src/*.8xp.txt; do
+  base=$(basename "$filename" .8xp.txt)
+  python ./vendor/parse8xp/main.py "$filename" "./dist/$base.8xp"
+done
